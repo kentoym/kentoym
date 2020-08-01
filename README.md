@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi👋 I am Kento Yamanaka
 
+connect with me here
+<p>
+  <a href="https://www.linkedin.com/in/kentoym/">
+    <img src="https://img.shields.io/badge/kentoym-blue?style=flat&logo=linkedin">
+  </a> &nbsp; 
+</p>
 <!--
 **kentoym/kentoym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
