@@ -6,6 +6,14 @@ connect with me here
     <img src="https://img.shields.io/badge/kentoym-blue?style=flat&logo=linkedin">
   </a> &nbsp; 
 </p>
+
+### Projects
+#### Stock Search & Simulator | iOS App  
+##### SwiftUI, Node.js, GCP  
+[Youtube | Stock Search (Click here to watch)](https://youtu.be/zzMT9rqfo_M)  
+[![Youtube Stock Search](http://img.youtube.com/vi/zzMT9rqfo_M/0.jpg)](https://youtu.be/zzMT9rqfo_M)
+
+
 <!--
 **kentoym/kentoym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
